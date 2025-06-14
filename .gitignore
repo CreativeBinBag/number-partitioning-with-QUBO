@@ -1,0 +1,11 @@
+# Virtual Environment
+qubo/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other common files to ignore
+.DS_Store
